@@ -1,9 +1,59 @@
+.header{
+    color:white; 
+    text-align: center;
+}
+
 h1{
- color:white;   
+ font-family: 'Pangolin', cursive;
+ font-size: 60px;
 }
 
 p{
-    color:white;
+    font-family: 'Bubbler One', sans-serif;
+    font-size:40px;
+}
+
+#red {
+    color: white;
+    background-color: red;
+    margin: auto;
+}  
+#orange {
+    color: white;
+    background-color: orange;
+    margin: auto;
+}   
+#yellow {
+    color: white;
+    background-color: yellow;
+    margin: auto;
+}
+  
+#green {
+    color: white;
+    background-color: green;
+    margin: auto;
+}
+  
+#blue {
+    color: white;
+    background-color: blue;
+    margin: auto;
+}
+  
+#purple {
+    color: white;
+    background-color: purple;
+    margin: auto;
+}
+
+.col-md-2{
+    text-align: center;
+    margin: auto;
+}
+img {
+    height:400px;
+    width:600px;
 }
 
 body{
